@@ -70,7 +70,7 @@ def resumen():
         ticker, fecha_inicio, fecha_fin = resultado
         print(f"{ticker} - {fecha_inicio} <-> {fecha_fin}")
 
-    conn.close()             
+    conn.close()      
 
 def grafico_ticker():
     input("Ingrese el ticker a graficar: ")
