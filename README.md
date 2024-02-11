@@ -28,3 +28,6 @@ El programa avisará al usuario en el caso de que la solicitud deseada no sea v�
 El usuario podrá organizar la base de datos, ya que el programa tiene una opción para eliminar datos de una manera sencilla. Se solicitará el nombre del TICKER, la fecha de inicio y la fecha de fin para identificar la información.
 
 El programa cuenta con una función de verificación a partir de la cual notificará al usuario si la operación se realizó se manera exitosa o si hubo algún problema.
+
+
+Sergio García Mora, Leonardo Alexis Cordoni, Emanuel Menager, Christian Armenteros y Tomás Anzalone.
