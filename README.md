@@ -30,4 +30,6 @@ El usuario podrá organizar la base de datos, ya que el programa tiene una opci�
 El programa cuenta con una función de verificación a partir de la cual notificará al usuario si la operación se realizó se manera exitosa o si hubo algún problema.
 
 
+## Primer entrega
+Estamos trabajando para agregar una interfaz gráfica, intentaremos hacer un archivo ejecutable del programa y completaremos la documentación readme
 Sergio García Mora, Leonardo Alexis Cordoni, Emanuel Menager, Christian Armenteros y Tomás Anzalone.
