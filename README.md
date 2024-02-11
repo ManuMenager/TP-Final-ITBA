@@ -32,4 +32,7 @@ El programa cuenta con una función de verificación a partir de la cual notific
 
 ## Primer entrega
 Estamos trabajando para agregar una interfaz gráfica, intentaremos hacer un archivo ejecutable del programa y completaremos la documentación readme
+
+
+## Integrantes
 Sergio García Mora, Leonardo Alexis Cordoni, Emanuel Menager, Christian Armenteros y Tomás Anzalone.
