@@ -28,12 +28,3 @@ El programa avisará al usuario en el caso de que la solicitud deseada no sea v�
 El usuario podrá organizar la base de datos, ya que el programa tiene una opción para eliminar datos de una manera sencilla. Se solicitará el nombre del TICKER, la fecha de inicio y la fecha de fin para identificar la información.
 
 El programa cuenta con una función de verificación a partir de la cual notificará al usuario si la operación se realizó se manera exitosa o si hubo algún problema.
-
-## Agradecimientos
-
-Espero que les guste y les sea útil el programa que he desarrollado, es mi primer programa y fue mi primer curso de un lenguaje de programación, asi que agradezco a los profes y compañeros por todo el conocimiento que me brindaron a lo largo de este tiempo.
-Fue todo un reto para mi hacer este curso al mismo tiempo que cursaba en la facultad, pero estoy muy contento con el esfuerzo dedicado y los resultados obtenidos.
-Cualquier error o sugerencia que quieran hacerme es más que bienvenida para seguir mejorando.
-
-Muchas gracias!
-Saludos.
