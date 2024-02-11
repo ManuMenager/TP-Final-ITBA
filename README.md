@@ -35,4 +35,4 @@ Estamos trabajando para agregar una interfaz gráfica, intentaremos hacer un arc
 
 
 ## Integrantes
-Sergio García Mora, Leonardo Alexis Cordoni, Emanuel Menager, Christian Armenteros y Tomás Anzalone.
+Sergio García Mora, Leonardo Alexis Cordoni, Emanuel Menager y Christian Armenteros.
